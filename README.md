@@ -7,6 +7,7 @@
   <a href="https://github.com/sttez/sttez.github.io" target="_blank"><img src="https://img.shields.io/badge/Github-knowledge-red.svg"></a>
   <a href="https://gitee.com/hellohehe1/hellohehe" target="_blank"><img src="https://img.shields.io/badge/Gitee-knowledge-blue.svg"></a>
   <a href="https://space.bilibili.com/289983710" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
+  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/bilibili-博客-critical"></a>
 </p>
 
 
