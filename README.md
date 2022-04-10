@@ -81,10 +81,9 @@
 
 ##  Java后端开发
 
-<object data="https://static.r2coding.com/r2_static/pdf/jawa.pdf" type="application/pdf" width="100%" height="100%">
-<p><b>返回内容</b>: 该浏览器不支持PDFs.请点击查看: 
-<a href="PDF地址">Download PDF</a>.</p>
-</object>
+<iframe src="https://static.r2coding.com/r2_static/pdf/jawa.pdf" width="100%" height="100%">
+ 该浏览器无法支持PDF，请点击查看：
+<a href="PDF地址">下载 PDF</a></iframe>
 
 > [!TIP]
 > 详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
