@@ -53,7 +53,6 @@
 
 ## C++
 
- [c++.pdf](Z:\knowledge\c++.pdf) 
 
 ## Java
 
@@ -81,9 +80,9 @@
 
 ##  Java后端开发
 
-<iframe src="https://static.r2coding.com/r2_static/pdf/jawa.pdf" width="100%" height="100%">
- 该浏览器无法支持PDF，请点击查看：
-<a href="PDF地址">下载 PDF</a></iframe>
+```pdf
+https://static.r2coding.com/r2_static/pdf/jawa.pdf
+```
 
 > [!TIP]
 > 详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
