@@ -12,7 +12,6 @@
 
 
 
-
 ---
 
 # **我的知识库**
@@ -41,8 +40,6 @@
 [习题及答案](http://mp.weixin.qq.com/s?__biz=MzI2OTE2NzczNQ==&mid=2649998793&idx=2&sn=65cd9eedab6409c5a86e2110a6bd9dab&chksm=f2e318d1c59491c75bebe4ff35f00efe4d072d867adc28e8f35e0bf2fb9ba3cf6609c35aafcd&mpshare=1&scene=23&srcid=1111EniCXoS2colnFeHysV3X&sharer_sharetime=1636599723262&sharer_shareid=e5697d582d6f8c3f8ba2481d6d69613a#rd "习题及答案")
 
 ## 大物
-
-<embed width="800" height="600" src="c++.pdf"></embed>
 
 ## 线代
 
@@ -83,7 +80,7 @@
 
 <!-- tabs:start -->
 
-### **Java后端开发**
+##  Java后端开发
 
 ```pdf
 https://static.r2coding.com/r2_static/pdf/jawa.pdf
@@ -92,7 +89,7 @@ https://static.r2coding.com/r2_static/pdf/jawa.pdf
 > [!TIP]
 > 详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
 
-### **前端开发**
+## 前端开发
 
 ```pdf
 https://static.r2coding.com/r2_static/pdf/front.pdf
@@ -101,7 +98,7 @@ https://static.r2coding.com/r2_static/pdf/front.pdf
 > [!TIP]
 > 详情链接 **→** [《前端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/_8lvpPDArM_Z-MI9iul1AA)
 
-### **大数据开发**
+## 大数据开发
 
 ```pdf
 https://static.r2coding.com/r2_static/pdf/bigdata.pdf
@@ -110,7 +107,7 @@ https://static.r2coding.com/r2_static/pdf/bigdata.pdf
 > [!TIP]
 > 详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
 
-### **嵌入式开发**
+## 嵌入式开发
 
 ```pdf
 https://static.r2coding.com/r2_static/pdf/embed.pdf
@@ -119,13 +116,13 @@ https://static.r2coding.com/r2_static/pdf/embed.pdf
 > [!TIP]
 > 详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
 
-### **C/C++后台开发**
+## C/C++后台开发
 
 ```pdf
 https://static.r2coding.com/r2_static/pdf/c.pdf
 ```
 
-### **网络安全方向**
+## 网络安全方向
 
 > [!TIP]
 > 详情链接 **→** [《网络安全方向学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/pPs5Gm9I3a6-nMZQ42kaWg)
@@ -136,7 +133,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 
 <!-- tabs:start -->
 
-#### **在线画图工具**
+## 在线画图工具
 
 程序员经常接触的无非也就是流程图、思维导图、原型图、UML图、网络拓扑图、组织结构图等等这些。下面这四个在线画图网站我想应该足够了，其中那个processon是我用得最多的，历史文章中几乎所有相关的图形都是用它绘制，然后导出图片的。
 
@@ -145,7 +142,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**在线思维导图工具MindLine**](http://www.mindline.cn/webapp)
 - [**PlantUML在线编辑器**](http://haha98k.com/)
 
-#### **在线编解码工具**
+## 在线编解码工具
 
 - [**BASE64编解码工具**](https://base64.supfree.net/)
 - [**MD5编码工具**](https://www.zxgj.cn/g/md5)
@@ -157,7 +154,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**字符串编解码工具**](https://www.zxgj.cn/g/enstring)
 - [**URL编解码工具**](http://tool.chinaz.com/tools/urlencode.aspx?jdfwkey=lbixz1)
 
-#### **在线转换工具**
+## 在线转换工具
 
 - [**在线ASCII码对照表**](http://www.fly63.com/tool/ascii/)
 - [**通用进制转换工具**](https://www.zxgj.cn/g/jinzhi)
@@ -172,24 +169,24 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**JSON/YAML在线转换**](http://www.fly63.com/tool/jsonyaml/)
 - [**人民币大小写转换工具**](http://www.fly63.com/tool/renmingbi/)
 
-#### **正则表达式工具**
+## 正则表达式工具
 
 - [**正则表达式调试工具**](https://regexr.com/)
 - [**正则表达式可视化工具**](https://jex.im/regulex/)
 
-#### **网络工具**
+## 网络工具
 
 - [**IP地址归属地查询**](https://www.ip138.com/)
 - [**IP地址查询**](https://www.ipip.net/ip.html)
 - [**HTTP在线接口测试工具**](http://www.fly63.com/php/http/)
 
-#### **在线编译运行工具**
+## 在线编译运行工具
 
 - [**C#在线编译运行**](https://rextester.com/)
 - [**C/C++在线编译调试**](https://www.onlinegdb.com/)
 - [**在线编译工具套装**](https://c.runoob.com/)
 
-#### **可视化/格式化工具**
+## 可视化/格式化工具
 
 - [**在线前端编辑器**](https://codepen.io/)
 - [**在线数据可视化**](https://flourish.studio/)
@@ -201,38 +198,19 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**JSON和XML在线转换**](https://www.zxgj.cn/g/jsonxml)
 - [**JSON/YAML在线转换**](http://www.fly63.com/tool/jsonyaml/)
 
-#### **在线生成器**
+## 在线生成器
 
 - [**UUID在线生成器**](https://www.zxgj.cn/g/uuid)
 - [**随机数生成器**](https://www.zxgj.cn/g/suijishu)
 
-#### **其他常用在线开发相关工具**
+## 其他常用在线开发相关工具
 
 - [**在线Nginx配置工具**](https://nginxconfig.io/)
 - [**在线文本代码比对工具**](http://www.fly63.com/tool/textdiff/)
 - [**在线Chrome浏览器插件**](https://www.crx4chrome.com/)
 - [**在线接口文档管理工具**](http://www.docway.net/)
 
-#### **在线素材工具**
-
-> - 如果你也写文章，或者做视频，那就一定少不了要找素材，包括各种图片、背景、emoji表情、表情包、壁纸、视频、gif图等等。
-> - 如此一来，那些好用的在线素材工具就必不可少了，比如像各种表情包工具、icon图标库、矢量图库、图片素材库、壁纸库等等。
-
-- [**免费透明背景图片素材**](http://pngimg.com/)
-- [**Emoji表情包下载**](https://emojiisland.com/)
-- [**open source icons**](https://feathericons.com/)
-- [**阿里巴巴矢量图标库**](https://www.iconfont.cn/)
-- [**表情包在线网站**](https://fabiaoqing.com/)
-- [**免费PNG图片库**](https://pluspng.com/)
-- [**ICON图标在线下载**](https://www.iconfinder.com/)
-- [**极简壁纸**](https://bz.zzzmh.cn/)
-- [**Wallpaper Abyss壁纸**](https://wall.alphacoders.com)
-- [**Pixabay图片素材库**](https://pixabay.com/zh/)
-- [**Unsplash图片素材库**](https://unsplash.com)
-- [**Pexels图片素材库**](http://www.pexels.com)
-- [**NASA图片视频素材库**](https://images.nasa.gov)
-
-#### **设计制作类工具**
+## 设计制作类工具
 
 > - 对于那些文章创作者和视频创作者而言，设计封面，做海报，设计LOGO，图片美化等等基本也是刚需。
 > - 这样大概率日常会用到一些简易好上手的在线设计制作类工具，比如在线P图、音/视频轻量化剪辑、logo制作、海报设计制作、图片美化、在线图片转换或生成等等，毕竟不是每时每刻我们都需要那种重量级的本地软件。
@@ -254,7 +232,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**二维码在线生成器**](http://www.fly63.com/tool/ewm/)
 - [**二维码在线解码**](http://www.fly63.com/php/decoder/)
 
-#### **写作辅助工具**
+## 写作辅助工具
 
 > - 在我写文章的过程中经常会用到和写作相关的辅助工具，比方说：字数统计工具、Markdown格式的文章排版工具、图床网站、代码截图工具等等，所以下面这些在线工具就能很好地满足我的需求。
 
@@ -268,7 +246,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**在线短链接工具**](https://urlify.cn/)
 - [**在线文本替换**](http://www.fly63.com/tool/textreplace/)
 
-#### **在线办公工具**
+## 在线办公工具
 
 > - 这部分在线工具主要用来处理一些和文档以及文稿相关的事情，经常用到的比如：在线的全套pdf处理和转换工具、各种各样多媒体文件间的相互转换工具、在线识别工具、在线压缩工具等等。
 
@@ -279,7 +257,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**在线文字识别工具**](https://ocr.wdku.net/)
 - [**在线文件压缩工具**](https://docsmall.com/)
 
-#### **文档笔记工具**
+## 文档笔记工具
 
 > - 好记性不如烂笔头，作为一个学习者，我觉得记笔记是必不可少的步骤。当然现在基本都做电子笔记和电子文档比较多。
 > - 现如今各式各样优秀的文档工具和笔记软件鳞次栉比，好用的也有很多，整理成如下列表，这东西各有长处，使用哪个最合意还得看个人习惯和需求了。
@@ -293,7 +271,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**Simplenote**](https://simplenote.com/)
 - [**语雀**](https://www.yuque.com/)
 
-#### **编程学习网**
+## 编程学习
 
 - [**哔哩哔哩**](https://www.bilibili.com/)
 - [**C语言网**](https://www.dotcpp.com/)
@@ -310,7 +288,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 - [**LeetCode**](https://leetcode-cn.com/)
 - [**LintCode**](https://www.lintcode.com/)
 
-#### **在线教程和文档**
+## 在线教程和文档
 
 > - 这部分主要集中了我在做开发过程中随手参考所要用到的几乎所有在线教程和官方文档，有中文版文档的我基本都优先列出来了，但更多时候是英文的官方文档。
 
@@ -357,85 +335,68 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 
 <!-- tabs:start -->
 
-#### **数据结构和算法**
+## 数据结构和算法
 
 ---
-
 >  - **《郝斌 数据结构入门》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=6159200&bvid=BV11s41167h6&cid=10001692&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 >  - **《数据结构-浙江大学》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=18586085&bvid=BV1JW411i731&cid=30323260&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 >  - **《数据结构与算法基础（青岛大学-王卓）》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=82837069&bvid=BV1nJ411V7bd&cid=141710539&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 >  - **《尚硅谷 Java数据结构与算法）》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=54029771&bvid=BV1E4411H73v&cid=261675748&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
-#### **计算机网络**
+## 计算机网络
 
 ---
-
 > - **《计算机网络微课堂》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=64605483&bvid=BV1c4411d7jb&cid=112161859&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 > - **《2019 王道考研 计算机网络》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=70228743&bvid=BV19E411D78Q&cid=121579556&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 > - **《韩立刚 计算机网络》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=415599826&bvid=BV1gV411h7r7&cid=262615706&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 > - **《计算机网络（谢希仁第七版）-方老师》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=421258608&bvid=BV1H3411y7q6&cid=430413734&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
-#### **操作系统**
+## 操作系统
 
 > - **《2020 南京大学  操作系统：设计与实现 (蒋炎岩) 》**
 
@@ -443,31 +404,25 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 <iframe src="//player.bilibili.com/player.html?aid=89733537&bvid=BV1N741177F5&cid=153258157&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
 ---
-
 > - **《操作系统（哈工大李治军老师）》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=51437944&bvid=BV1d4411v7u7&cid=90016520&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
-#### **计算机组成原理**
+## 计算机组成原理
 
 ---
-
 > - **《计算机组成原理（哈工大刘宏伟）》**
 
 <p align="center">
 <iframe src="//player.bilibili.com/player.html?aid=51650260&bvid=BV1t4411e7LH&cid=90407902&page=1&as_wide=1&high_quality=1&danmaku=1" allowfullscreen="true" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </p>
 
-
-#### **编译原理**
+## 编译原理
 
 ---
-
 > - **《编译原理（哈工大）》**
 
 <p align="center">
