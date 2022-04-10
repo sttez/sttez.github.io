@@ -107,11 +107,6 @@
 > [!TIP]
 > 详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
 
-## C/C++后台开发
-
-```pdf
-https://static.r2coding.com/r2_static/pdf/c.pdf
-```
 
 ## 网络安全方向
 
