@@ -80,36 +80,29 @@
 
 ##  Java后端开发
 
-```pdf
-https://static.r2coding.com/r2_static/pdf/jawa.pdf
-```
+![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/jawa.391vqmg83lc0.png)
 
 > [!TIP]
 > 详情链接 **→** [《Java后端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
 
 ## 前端开发
 
-```pdf
-https://static.r2coding.com/r2_static/pdf/front.pdf
-```
+![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/front.6uquir77a6c0.png)
+
 
 > [!TIP]
 > 详情链接 **→** [《前端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/_8lvpPDArM_Z-MI9iul1AA)
 
 ## 大数据开发
+![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/bigdata.21roso2lxdsw.png)
 
-```pdf
-https://static.r2coding.com/r2_static/pdf/bigdata.pdf
-```
 
 > [!TIP]
 > 详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
 
 ## 嵌入式开发
 
-```pdf
-https://static.r2coding.com/r2_static/pdf/embed.pdf
-```
+![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/embed.2kqjbi961600.png)
 
 > [!TIP]
 > 详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
